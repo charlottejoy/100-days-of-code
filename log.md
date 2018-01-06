@@ -19,7 +19,7 @@
 - Worked on a CSS Image tutorial. Tried to modify code to be cleaner.
 - Worked on look of Lights Out. Organized things with flexbox, removed shadows, better responsive layout. 
 
-**Thoughts:** Not convinved about tutorials not counting, but get that real projects = real problem solving = real solving. 
+**Thoughts:** Not convinved about tutorials not counting, but get that real projects = real problem solving = real learning. 
 Might help manage time to focus learning on solving specific issues. Tutorials then will be in moderation or weekends. 
 
 Material design is interesting.
