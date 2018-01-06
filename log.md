@@ -25,7 +25,7 @@ Might help manage time to focus learning on solving specific issues. Tutorials t
 Material design is interesting.
 
 **Link(s) to work:**
-1. [Nintendo Switch modifying Coding Artist Turotial] (https://codepen.io/charlottejoy/full/jYaLMP/)
+1. [Nintendo Switch modifying Coding Artist Turotial](https://codepen.io/charlottejoy/full/jYaLMP/)
 2. [Lights Out at CodePen](https://codepen.io/charlottejoy/full/wpGQOZ/)
     1. [The repo](https://github.com/charlottejoy/Lights_out)
 	2. [The make prettier issue](https://github.com/charlottejoy/Lights_out/issues/4)
