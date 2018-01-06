@@ -13,6 +13,23 @@
 1. [Updated Template](https://codepen.io/charlottejoy/full/EomGRB/)
 2. [Airplane- cycling background](https://codepen.io/charlottejoy/full/baoaoE/)
 
+### Day 5: Jan 6, 2018 
+
+**Today's Progress**: 
+- Worked on a CSS Image tutorial. Tried to modify code to be cleaner.
+- Worked on look of Lights Out. Organized things with flexbox, removed shadows, better responsive layout. 
+
+**Thoughts:** Not convinved about tutorials not counting, but get that real projects = real problem solving = real solving. 
+Might help manage time to focus learning on solving specific issues. Tutorials then will be in moderation or weekends. 
+
+Material design is interesting.
+
+**Link(s) to work:**
+1. [Nintendo Switch modifying Coding Artist Turotial] (https://codepen.io/charlottejoy/full/jYaLMP/)
+2. [Lights Out at CodePen](https://codepen.io/charlottejoy/full/wpGQOZ/)
+    1. [The repo](https://github.com/charlottejoy/Lights_out)
+	2. [The make prettier issue](https://github.com/charlottejoy/Lights_out/issues/4)
+
 <!--### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
