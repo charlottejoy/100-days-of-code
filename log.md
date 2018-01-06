@@ -1,25 +1,19 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: Jan 2, 2018 
+#### I didn't start logging until the 5th day, so need to do some digging for this. 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+### Day 4: Jan 5, 2018 
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Today's Progress**: Added some advice to my go-to template. Experimented with repeating scenery with css animation. 
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Thoughts:** Yesterday, I was frustrated because I didn't have as much to show as previous days. Today, I tried to focus on some small things. Break it down and have more realistic goals now that I'm back to work. Staying up late= next day's productivity plummets. Better to take a break and come back fresh. 
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+**Link(s) to work:**
+1. [Updated Template](https://codepen.io/charlottejoy/full/EomGRB/)
+2. [Airplane- cycling background](https://codepen.io/charlottejoy/full/baoaoE/)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
+<!--### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
@@ -27,4 +21,4 @@
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)-->
