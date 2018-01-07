@@ -29,6 +29,18 @@ Material design is interesting.
 2. [Lights Out at CodePen](https://codepen.io/charlottejoy/full/wpGQOZ/)
     1. [The repo](https://github.com/charlottejoy/Lights_out)
 	2. [The make prettier issue](https://github.com/charlottejoy/Lights_out/issues/4)
+	
+	
+### Day 6: Jan 7, 2018 
+
+**Today's Progress**: 
+- Spent way too long trying to decide what to do today. Found an [article suggesting some projects](https://medium.com/@GarrettLevine/5-projects-to-complete-when-starting-to-learn-front-end-web-development-48e8a1ce3178). 
+- Worked on the first project. [Copying this layout](http://www.free-css.com/free-css-templates/page196/conquer)
+
+**Thoughts:** I need to create/ find a structured curriculum if I'm going to stay focused. 
+
+**Link(s) to work:**
+1. [Responsive layout with yoga=mat inspired colours](https://codepen.io/charlottejoy/full/VyrNMB/).	
 
 <!--### Day 1: June 27, Monday
 
