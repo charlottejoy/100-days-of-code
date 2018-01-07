@@ -40,7 +40,7 @@ Material design is interesting.
 **Thoughts:** I need to create/ find a structured curriculum if I'm going to stay focused. 
 
 **Link(s) to work:**
-1. [Responsive layout with yoga=mat inspired colours](https://codepen.io/charlottejoy/full/VyrNMB/).	
+1. [Responsive layout with yoga-mat inspired colours](https://codepen.io/charlottejoy/full/VyrNMB/).	
 
 <!--### Day 1: June 27, Monday
 
