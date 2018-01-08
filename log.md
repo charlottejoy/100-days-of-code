@@ -42,6 +42,16 @@ Material design is interesting.
 **Link(s) to work:**
 1. [Responsive layout with yoga-mat inspired colours](https://codepen.io/charlottejoy/full/VyrNMB/).	
 
+### Day 7: Jan 8, 2018 
+
+**Today's Progress**: 
+- Shared Morning Coffee on Instagram and Twitter.
+- Became interested in the hamburger nav from the above. Ended up starting a clone of the nav in Codecademy's exercises. 
+
+**Thoughts:** I'm not sure whether it would be better to focus on one element (ex: trying a bunch of different navs) or just build a project. Maybe a combination of both. The first would be good practice for getting good at specific things, then the second for putting what I know together. 
+
+**Link(s) to work:**
+1. [Navigation with sticky sections](https://github.com/charlottejoy/exercises/tree/master/navigation/Sticky_sections).	
 <!--### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
