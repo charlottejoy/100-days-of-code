@@ -52,6 +52,19 @@ Material design is interesting.
 
 **Link(s) to work:**
 1. [Navigation with sticky sections](https://github.com/charlottejoy/exercises/tree/master/navigation/Sticky_sections).	
+
+### Day 8: Jan 9, 2018 
+
+**Today's Progress**: 
+- Sicky today= good time to figure stuff out in a notebook in bed. Tried a couple Project Euler exercises. Added some into Github. Yay! Whiteboard from bed!
+
+**Thoughts:** 
+Checked email. [Tertris Loader](https://codepen.io/charlottejoy/pen/aEwKMB) was in [Codepen Spark!](https://codepen.io/spark/58) I feel encouraged. 
+
+
+**Link(s) to work:**
+1. [Project Euler Solutions](https://github.com/charlottejoy/Project_Euler_algorithms).	
+
 <!--### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
