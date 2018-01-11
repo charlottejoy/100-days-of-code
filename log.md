@@ -74,6 +74,19 @@ There really is just so much. Took a quick look at JS for astonomy, thoughta bou
 1. [Conquer layout](https://codepen.io/charlottejoy/pen/VyrNMB?editors=1100)
 2. [Lights out](https://codepen.io/charlottejoy/pen/wpGQOZ)	
 
+
+### Day 10: Jan 11, 2018 
+
+**Today's Progress**: 
+- Inspired by an animation on Instagram, I decided to try creating a thread spinner. I spent waaay longer than I thought I would trying to place the string. I think my goal was to have it come off the end of the page. Left it for today back using vmins and the string edges being visible.
+
+**Thoughts:** 
+It's important to decide if the little details are really what you want. Particularly when you have limited time (which is probably most of the time). Start with what's needed, THEN move on to the nice to haves. 
+
+
+**Link(s) to work:**
+1. [thread spinner](https://codepen.io/charlottejoy/pen/qpYOdJ?editors=1100)
+
 <!--### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
