@@ -62,8 +62,17 @@ Material design is interesting.
 Checked email. [Tertris Loader](https://codepen.io/charlottejoy/pen/aEwKMB) was in [Codepen Spark!](https://codepen.io/spark/58) I feel encouraged. 
 
 
+### Day 9: Jan 10, 2018 
+
+**Today's Progress**: 
+- Working more on layouts, read a bit about Google material icons. Yay for newsletters.
+
+**Thoughts:** 
+There really is just so much. Took a quick look at JS for astonomy, thoughta bout more CSS images, skins for Light Out. OMG. 
+
 **Link(s) to work:**
-1. [Project Euler Solutions](https://github.com/charlottejoy/Project_Euler_algorithms).	
+1. [Conquer layout](https://codepen.io/charlottejoy/pen/VyrNMB?editors=1100)
+2. [Lights out](https://codepen.io/charlottejoy/pen/wpGQOZ)	
 
 <!--### Day 1: June 27, Monday
 
