@@ -87,6 +87,30 @@ It's important to decide if the little details are really what you want. Particu
 **Link(s) to work:**
 1. [thread spinner](https://codepen.io/charlottejoy/pen/qpYOdJ?editors=1100)
 
+### Day 11, Jan 12, 2018
+
+**Today's Progress**: 
+- Working more on layouts, do some breaking down of a design one of the designers at work created for a client. Yay! real world examples. But no sharing on this one. 
+
+**Thoughts:** 
+Push in the morning if the github streak is important. I went out and wanted to finish that hour when I got home. I learned some things, but didn't push. 
+
+**Link(s) to work:**
+1. [Conquer layout](https://codepen.io/charlottejoy/pen/VyrNMB?editors=1100)
+
+
+
+### Day 12, Jan 13, 2018
+
+**Today's Progress**: 
+- Working more on layouts. Lots on that design from work.
+
+**Thoughts:** 
+Why is layout so hard? There were a few times there was one simple thing and some other times when it was just wtf mate. I'm relying a lot on flex-box, but I don't know that this is always the best for responsive. I'm seeing a lot of things that seemed to be designed with specific px sizes for different breakpoints. YO! Freecodecamp beta. gonna check you out for your new deisng section. Maybe some globabl thoughts there. 
+
+**Link(s) to work:**
+1. [Conquer layout](https://codepen.io/charlottejoy/pen/VyrNMB?editors=1100)
+
 <!--### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
