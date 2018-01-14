@@ -116,6 +116,7 @@ Why is layout so hard? There were a few times there was one simple thing and som
 
 **Today's Progress**: 
 - Had fun with the thread spinner optical illusion animation (Thaumatrop)
+- Need to add prefixes before sharing. Edge was like "no animation for you".
 
 **Thoughts:** 
 I like the animation, but it's glitchy on mobile. 2 things: 
