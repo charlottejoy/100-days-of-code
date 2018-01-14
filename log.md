@@ -111,6 +111,20 @@ Why is layout so hard? There were a few times there was one simple thing and som
 **Link(s) to work:**
 1. [Conquer layout](https://codepen.io/charlottejoy/pen/VyrNMB?editors=1100)
 
+
+### Day 13, Jan 14, 2018
+
+**Today's Progress**: 
+- Had fun with the thread spinner optical illusion animation (Thaumatrop)
+
+**Thoughts:** 
+I like the animation, but it's glitchy on mobile. 2 things: 
+- I'd like some software to screen record on my computer. 
+- I have to be mindful of how things will work in mobile in terms of performance, not just size. 
+
+**Link(s) to work:**
+1. [Cat Love](https://codepen.io/charlottejoy/full/qpYOdJ/)
+
 <!--### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
