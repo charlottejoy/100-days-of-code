@@ -115,13 +115,26 @@ Why is layout so hard? There were a few times there was one simple thing and som
 ### Day 13, Jan 14, 2018
 
 **Today's Progress**: 
-- Had fun with the thread spinner optical illusion animation (Thaumatrop)
+- Had fun with the thread spinner optical illusion animation (Thaumatrope)
 - Need to add prefixes before sharing. Edge was like "no animation for you".
 
 **Thoughts:** 
 I like the animation, but it's glitchy on mobile. 2 things: 
 - I'd like some software to screen record on my computer. 
 - I have to be mindful of how things will work in mobile in terms of performance, not just size. 
+
+**Link(s) to work:**
+1. [Cat Love](https://codepen.io/charlottejoy/full/qpYOdJ/)
+
+
+### Day 14, Jan 14, 2018
+
+**Today's Progress**: 
+- Added prefixes. It still doesn't work on Edge and found it didn't work on Safari when at work. 
+
+**Thoughts:** 
+It was glitchy on mobile when also running the screen capture app. Guess the 2 together take too much power. 
+Realize the Tetris loader also didn't work well on Edge. Cross- Browser TESTING!!!!!
 
 **Link(s) to work:**
 1. [Cat Love](https://codepen.io/charlottejoy/full/qpYOdJ/)
