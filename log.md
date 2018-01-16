@@ -127,7 +127,7 @@ I like the animation, but it's glitchy on mobile. 2 things:
 1. [Cat Love](https://codepen.io/charlottejoy/full/qpYOdJ/)
 
 
-### Day 14, Jan 14, 2018
+### Day 14, Jan 15, 2018
 
 **Today's Progress**: 
 - Added prefixes. It still doesn't work on Edge and found it didn't work on Safari when at work. 
