@@ -139,6 +139,19 @@ Realize the Tetris loader also didn't work well on Edge. Cross- Browser TESTING!
 **Link(s) to work:**
 1. [Cat Love](https://codepen.io/charlottejoy/full/qpYOdJ/)
 
+
+### Day 15, Jan 16, 2018
+
+**Today's Progress**: 
+- Working more on layouts.
+
+**Thoughts:** 
+Read about Grid and Flexbox.
+Cat Love was a picked pen. But it's still not working on Edge and Safari. Not feeling like working on this right now. 
+
+**Link(s) to work:**
+1. [Conquer layout](https://codepen.io/charlottejoy/pen/VyrNMB?editors=1100)
+
 <!--### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
