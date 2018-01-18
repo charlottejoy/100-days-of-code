@@ -152,6 +152,33 @@ Cat Love was a picked pen. But it's still not working on Edge and Safari. Not fe
 **Link(s) to work:**
 1. [Conquer layout](https://codepen.io/charlottejoy/pen/VyrNMB?editors=1100)
 
+
+### Day 16: Jan 17, 2018
+
+**Today's Progress**: 
+- Working more on layouts.
+
+**Thoughts:** 
+I made time in the morning and before leaving work, but it can be tricky to get in practice if I don't time things right. Smart phones are awesome. I can reserach all my questions or read about different things on my commute. 
+
+**Link(s) to work:**
+1. [Conquer layout](https://codepen.io/charlottejoy/pen/VyrNMB?editors=1100)
+
+### Day 17: Jan 18, 2018
+
+**Today's Progress**: 
+- Working more on layouts.
+- Worked more on work project.
+- Changed name of Udacity's portfolio project to "practice port" and put note that it's out of date wityh link to current profile. It had a lot of views. 
+
+**Thoughts:** 
+I can't show the work project and someone else with more experience will be making it. I'm not sure if I should spend my time here. I"m thinking to show what I've got at work. See if anyone can give me some pointers, but to work on projects that I can add to a portfolio.
+
+After working on this layout. A good next project might be a simple portfolio using the FCC project as a guidline. 
+
+**Link(s) to work:**
+1. [Conquer layout](https://codepen.io/charlottejoy/pen/VyrNMB?editors=1100)
+
 <!--### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
