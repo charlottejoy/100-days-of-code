@@ -170,11 +170,14 @@ I made time in the morning and before leaving work, but it can be tricky to get 
 - Working more on layouts.
 - Worked more on work project.
 - Changed name of Udacity's portfolio project to "practice port" and put note that it's out of date wityh link to current profile. It had a lot of views. 
+- Replied to a few 100daysofcode questions and had some interesting conversations!
 
 **Thoughts:** 
 I can't show the work project and someone else with more experience will be making it. I'm not sure if I should spend my time here. I"m thinking to show what I've got at work. See if anyone can give me some pointers, but to work on projects that I can add to a portfolio.
 
-After working on this layout. A good next project might be a simple portfolio using the FCC project as a guidline. 
+After working on this layout. A good next project might be a simple portfolio using the FCC project as a guideline. 
+
+REALLY. Even when my code is crap, I need to tweet/ reach out. Maybe especially then. Conversations with other people who are trying is really great. 
 
 **Link(s) to work:**
 1. [Conquer layout](https://codepen.io/charlottejoy/pen/VyrNMB?editors=1100)
