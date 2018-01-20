@@ -193,7 +193,7 @@ Yesterday, I showed what I put what I was working on in a repo for work. One of 
 **Link(s) to work:**
 1. [Conquer layout](https://codepen.io/charlottejoy/pen/VyrNMB?editors=1100)
 
-### Day 18: Jan 19, 2018
+### Day 19: Jan 20, 2018
 
 **Today's Progress**: 
 - Working more on layouts.
