@@ -182,6 +182,29 @@ REALLY. Even when my code is crap, I need to tweet/ reach out. Maybe especially 
 **Link(s) to work:**
 1. [Conquer layout](https://codepen.io/charlottejoy/pen/VyrNMB?editors=1100)
 
+### Day 18: Jan 19, 2018
+
+**Today's Progress**: 
+- Working more on layouts.
+
+**Thoughts:** 
+Yesterday, I showed what I put what I was working on in a repo for work. One of my coworkers offered to check it out. She's been really nice, but that is scary. Codepen shows my work as it's happening, there's so much unfinished on it. Makes me think about large projects and how to keep code clean even in the process.  
+
+**Link(s) to work:**
+1. [Conquer layout](https://codepen.io/charlottejoy/pen/VyrNMB?editors=1100)
+
+### Day 18: Jan 19, 2018
+
+**Today's Progress**: 
+- Working more on layouts.
+
+**Thoughts:** 
+15 minutes at a time. A concrete goal. I think this can help. 
+
+**Link(s) to work:**
+1. [Conquer layout](https://codepen.io/charlottejoy/pen/VyrNMB?editors=1100)
+
+
 <!--### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
