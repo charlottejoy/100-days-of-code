@@ -204,7 +204,7 @@ Yesterday, I showed what I put what I was working on in a repo for work. One of 
 **Link(s) to work:**
 1. [Conquer layout](https://codepen.io/charlottejoy/pen/VyrNMB?editors=1100)
 
-### Day 20: Jan 22, 2018
+### Day 20: Jan 21, 2018
 
 **Today's Progress**: 
 - Working more on layouts. Learned that textarea closing tag needs to be on same line, looked at parralax, realized I needed to download and refer to the script. stopped. 
