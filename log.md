@@ -207,10 +207,14 @@ Yesterday, I showed what I put what I was working on in a repo for work. One of 
 ### Day 20: Jan 22, 2018
 
 **Today's Progress**: 
-- Working more on layouts. Learned that textarea closing tag needs to be on same line, looked at parralaz, realized I needed to download and refer to the script. stopped. 
+- Working more on layouts. Learned that textarea closing tag needs to be on same line, looked at parralax, realized I needed to download and refer to the script. stopped. 
+- Came back and played more with a different parallax library http://matthew.wagerfield.com/parallax/
+- Got original parallax library to work https://github.com/pixelcog/parallax.js
+- Did some FCC beta
 
 **Thoughts:** 
-Tired. want to just do a guided tutorial. Not feeling like working on those final little details today.
+Tired. Want to just do a guided tutorial. Not feeling like working on those final little details today.
+After being able to add the parallax affect, I realized that if html had a background colour, or the parallax-window was in a div with background colour it was covered. Trial and error. Parallax slider may have been an easier thing. Need to really read doc instead of just diving in . 
 
 **Link(s) to work:**
 1. [Conquer layout](https://codepen.io/charlottejoy/pen/VyrNMB?editors=1100)
