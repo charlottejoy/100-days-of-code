@@ -221,6 +221,19 @@ After being able to add the parallax affect, I realized that if html had a backg
 
 
 
+### Day 21: Jan 22, 2018
+
+**Today's Progress**: 
+- Working more on layouts.Added the side images, more image and text sizing. 
+- Looked at css naming conventions. Heard about BEM. 
+
+**Thoughts:** 
+This really could go on forever. I don't like the layout very much. I could add the rows as JS variables to make it easier to customize. 
+
+**Link(s) to work:**
+1. [Conquer layout](https://codepen.io/charlottejoy/pen/VyrNMB?editors=1100)
+
+
 <!--### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
