@@ -233,6 +233,16 @@ This really could go on forever. I don't like the layout very much. I could add 
 **Link(s) to work:**
 1. [Conquer layout](https://codepen.io/charlottejoy/pen/VyrNMB?editors=1100)
 
+### Day 22: Jan 23, 2018
+
+**Today's Progress**: 
+- Added theme capabilities to Lights Out game 
+
+**Thoughts:** 
+In hindsight, I see that it might have been better to practice this skill on a static webpage rather than something with other moving parts and that relies on adding clases for it's general functioning. 
+**Link(s) to work:**
+1. [Lights Out](https://codepen.io/charlottejoy/pen/wpGQOZ?editors=0111)
+
 
 <!--### Day 1: June 27, Monday
 
