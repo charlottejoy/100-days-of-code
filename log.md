@@ -244,6 +244,47 @@ In hindsight, I see that it might have been better to practice this skill on a s
 1. [Lights Out](https://codepen.io/charlottejoy/pen/wpGQOZ?editors=0111)
 
 
+### Day 23: Jan 24, 2018
+
+**Today's Progress**: 
+- Made themes+ their elements into an object
+- Read some more Eloquent Javascript
+
+**Thoughts:** 
+This was a refresher on accessing data inside of nested objects. I hope with time, all of this will stick
+
+**Link(s) to work:**
+1. [Lights Out](https://codepen.io/charlottejoy/pen/wpGQOZ?editors=0111)
+
+
+### Day 24: Jan 25, 2018
+
+**Today's Progress**: 
+- Added more theme elements. Default theme displayed on load. Can change theme without redrawing game
+- Had extra time, so watched some of Wes Bos' What the Flexbox
+- Read some more Eloquent Javascript
+
+**Thoughts:** 
+ Between the newsletters and Eloquent Javascript + the internet on my phone(!), my commute is full of learning about code. I'm very happy about that. 
+ Enjoying having the book to make sure I understand what's going on beneath what I write. 
+ 
+**Link(s) to work:**
+1. [Lights Out](https://codepen.io/charlottejoy/pen/wpGQOZ?editors=0111)
+
+
+### Day 25: Jan 26, 2018
+
+**Today's Progress**: 
+- Added animation after win to Lights Out Game
+- Read some more Eloquent Javascript
+
+**Thoughts:** 
+After showing someone the game and watching as they were confused with things I knew, I realized how important it is to demonstrate what to do. I thought a bit today about how to indicate what to do + what is happening to a person who had never played this game before. Ideally with little text. If I'm going to show someone a work in progress, be very aware of the limitations and make sure that the essential parts of the experience (such as knowing when you've won before drawing a new game) are there. 
+
+**Link(s) to work:**
+1. [Lights Out](https://codepen.io/charlottejoy/pen/wpGQOZ?editors=0111)
+
+
 <!--### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
