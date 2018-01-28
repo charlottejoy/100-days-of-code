@@ -285,6 +285,24 @@ After showing someone the game and watching as they were confused with things I 
 1. [Lights Out](https://codepen.io/charlottejoy/pen/wpGQOZ?editors=0111)
 
 
+### Day 26: Jan 27, 2018
+
+**Today's Progress**: 
+Lights Out
+- Style example
+- Finish heart theme colours and shapes
+- finish win animation
+- add draw transition
+- thought about some ways to make clear what to do without words
+
+**Thoughts:** 
+I spent a good amount of time thinking about how to have less lines of code. I'll need to rethink how I wrote some of the functions if I'll combine random and choosen in a way that makes sense. 
+I could do with a refresher on scope.
+
+**Link(s) to work:**
+1. [Lights Out](https://codepen.io/charlottejoy/pen/wpGQOZ?editors=0111)
+
+
 <!--### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
