@@ -303,6 +303,24 @@ I could do with a refresher on scope.
 1. [Lights Out](https://codepen.io/charlottejoy/pen/wpGQOZ?editors=0111)
 
 
+
+### Day 26: Jan 27, 2018
+
+**Today's Progress**: 
+- fix help style
+- add random game draw transition
+- improve regular game draw transition
+- add title 
+- improve help style
+- Add fontAwesome, learned how to add it to content
+
+**Thoughts:** 
+Breaking things down in to very small pieces is really the way to get things done.
+
+**Link(s) to work:**
+1. [Lights Out](https://codepen.io/charlottejoy/pen/wpGQOZ?editors=0111)
+
+
 <!--### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
