@@ -316,6 +316,7 @@ I could do with a refresher on scope.
 
 **Thoughts:** 
 Breaking things down in to very small pieces is really the way to get things done.
+Broke something in Javascript I could not find. So thankful for Github. Last commit had just what I needed. 
 
 **Link(s) to work:**
 1. [Lights Out](https://codepen.io/charlottejoy/pen/wpGQOZ?editors=0111)
