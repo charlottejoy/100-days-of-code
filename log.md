@@ -303,8 +303,7 @@ I could do with a refresher on scope.
 1. [Lights Out](https://codepen.io/charlottejoy/pen/wpGQOZ?editors=0111)
 
 
-
-### Day 26: Jan 27, 2018
+### Day 27: Jan 28, 2018
 
 **Today's Progress**: 
 - fix help style
@@ -320,6 +319,44 @@ Broke something in Javascript I could not find. So thankful for Github. Last com
 
 **Link(s) to work:**
 1. [Lights Out](https://codepen.io/charlottejoy/pen/wpGQOZ?editors=0111)
+
+
+### Day 28: Jan 29, 2018
+
+**Today's Progress**: 
+- font awesome, add title, improve help and theme style,
+
+**Thoughts:** 
+I might be picking at little things 
+
+**Link(s) to work:**
+1. [Lights Out](https://codepen.io/charlottejoy/pen/wpGQOZ?editors=0111)
+
+
+### Day 29: Jan 30, 2018
+
+**Today's Progress**: 
+- add date range choice, more theme icons, improve responsive game +options
+
+**Thoughts:** 
+I don't feel that confident in my visual choices. I want to either be creating more simple designs (like colour palettes and font combinations that already exist) OR get more comfortable making those design decisions. Maybe take a refresher course online. 
+I enjoyed doing the little date range choices.
+
+**Link(s) to work:**
+1. [Lights Out](https://codepen.io/charlottejoy/pen/wpGQOZ?editors=0111)
+
+
+### Day 30: Jan 31, 2018
+
+**Today's Progress**: 
+- clean up js, refine themes, naming
+
+**Thoughts:** 
+I'm tired. Time seemed to pass slowly and yet it doesn't feel like a lot of progress. I'm not puzzling right now, I'm cleaning up what I"ve made. I don't think I find this part very interesting. But, I did find some repetition in the functions that I cleared up.
+
+**Link(s) to work:**
+1. [Lights Out](https://codepen.io/charlottejoy/pen/wpGQOZ?editors=0111)
+
 
 
 <!--### Day 1: June 27, Monday
