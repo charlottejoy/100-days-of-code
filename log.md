@@ -358,6 +358,62 @@ I'm tired. Time seemed to pass slowly and yet it doesn't feel like a lot of prog
 1. [Lights Out](https://codepen.io/charlottejoy/pen/wpGQOZ?editors=0111)
 
 
+### Day 31: Feb 1, 2018
+
+**Today's Progress**: 
+I added a photo theme. I had tried that towards the beginning, but now I've gotten it to work. 
+
+**Thoughts:** 
+It can be challenging when you're really tired, etc. But I think it's important in those moments to find the fun. 
+
+**Link(s) to work:**
+1. [Lights Out](https://codepen.io/charlottejoy/pen/wpGQOZ?editors=0111)
+
+
+### Day 32: Feb 2, 2018
+
+**Today's Progress**: 
+- Looked at some old FCC projects, researched a bit about location
+- cleaned up a bit more the lights out game
+- layout for Lite Brite
+
+**Thoughts:** 
+ I did not feel motivated to create today. I don't hink I had a strong goal in terms of learning or making something really fun. So much cleanup is not inspiring.
+
+**Link(s) to work:**
+1. [Lights Out](https://codepen.io/charlottejoy/pen/wpGQOZ?editors=0111)
+2a. [Light Brite](https://codepen.io/charlottejoy/pen/rJxMOb)
+2b. [Light Brite](https://github.com/charlottejoy/light_brite)
+
+
+### Day 33: Feb 3, 2018
+
+**Today's Progress**: 
+- I worked on the Light Brite idea
+
+**Thoughts:** 
+I really like the logic, so I played with drawing another board, but in hindsight, I wonder if there's a better way to make it happen. At some point, I'm going to get to Eloquent JS's "make a paint game". After I've done that, I'll continue.
+
+**Link(s) to work:**
+1a. [Light Brite](https://codepen.io/charlottejoy/pen/rJxMOb)
+1b. [Light Brite](https://github.com/charlottejoy/light_brite)
+
+
+### Day 34: Feb 4, 2018
+
+**Today's Progress**: 
+- eliminating more uneeded JS Yay! naming
+
+**Thoughts:** 
+This could really go on forever. I'm sharing it today. It's done. At least for now. 
+If I have more time today, I think FCC Beta could be a could place to go again. Those projects are good things and they have new modules. 
+I've also got some unfinished projects like the conquer/explore layout, old broken projects. 
+I think cleaning/ culling these will be a gradual process. I hate going through clutter in the real world. I imagine I'll procrastinate similarly in this. 
+
+**Link(s) to work:**
+1. [Lights Out](https://codepen.io/charlottejoy/pen/wpGQOZ?editors=0111)
+
+
 
 <!--### Day 1: June 27, Monday
 
