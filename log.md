@@ -414,6 +414,20 @@ I think cleaning/ culling these will be a gradual process. I hate going through 
 1. [Lights Out](https://codepen.io/charlottejoy/pen/wpGQOZ?editors=0111)
 
 
+### Day 35: Feb 5, 2018
+
+**Today's Progress**: 
+- CSS Drawing
+
+**Thoughts:** 
+I was going to do an FCC section and then didn't because I wanted to do something I could commit to Github. I've got to stop the streak  because the goal is to learn, not to have everyday green. 
+Also, if I'm going to go for speed, I need to pick simple images. I can see how this is broken down, but it's still more complex than I can do quickly.
+My pen- Lights Out was picked! Yay!
+
+**Link(s) to work:**
+1. [City Stamp- not much to show](https://codepen.io/charlottejoy/pen/gvMjwq)
+
+
 
 <!--### Day 1: June 27, Monday
 
