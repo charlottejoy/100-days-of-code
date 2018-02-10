@@ -428,6 +428,18 @@ My pen- Lights Out was picked! Yay!
 1. [City Stamp- not much to show](https://codepen.io/charlottejoy/pen/gvMjwq)
 
 
+### Day 36: Feb 6, 2018- Day 40: Feb 10, 2018
+
+**Today's Progress**: 
+- FCC tribute page and FCC tribute page
+- Reading some Elloquent Javascript
+
+**Thoughts:** 
+There's a lot going on with life. I felt discouraged, but I like this. I lost my streak, but I'm going to keep learning. I think the balanced approach is that even if I don't keep a streak or 100 days, or whatever, the goal is to code and to learn. Keep Going!
+
+**Link(s) to work:**
+1. [FCC Tribute page- Boxes theme](https://codepen.io/charlottejoy/pen/jZyYvV?editors=1010)
+
 
 <!--### Day 1: June 27, Monday
 
