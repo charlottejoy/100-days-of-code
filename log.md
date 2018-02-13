@@ -441,6 +441,26 @@ There's a lot going on with life. I felt discouraged, but I like this. I lost my
 1. [FCC Tribute page- Boxes theme](https://codepen.io/charlottejoy/pen/jZyYvV?editors=1010)
 
 
+### Day 41: Feb 11, 2018
+
+**Today's Progress**: 
+- FCC exercises
+
+**Thoughts:** 
+Past few days couldn't connect to a project. Glad FCC is there. 
+Watching Cosmos, wondering about programming in science. 
+
+### Day 42: Feb 12, 2018
+
+**Today's Progress**: 
+-Working more on Conquer
+
+**Thoughts:** 
+Used jQuery for the nav. Added space. At this point, I think it's mostly about colours. 
+
+**Link(s) to work:**
+1. [Explore theme](https://codepen.io/charlottejoy/pen/VyrNMB?editors=1100)
+
 <!--### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
