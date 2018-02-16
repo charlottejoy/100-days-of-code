@@ -461,6 +461,29 @@ Used jQuery for the nav. Added space. At this point, I think it's mostly about c
 **Link(s) to work:**
 1. [Explore theme](https://codepen.io/charlottejoy/pen/VyrNMB?editors=1100)
 
+
+### Day 43, 44: Feb 13, 14, 2018
+- read and worked on Explore theme. I think it's ACTUALLY done
+
+**Link(s) to work:**
+1. [Explore theme](https://codepen.io/charlottejoy/pen/VyrNMB?editors=1100)
+
+
+### Day 45: Feb 15, 2018
+
+**Today's Progress**: 
+- Fixed logic error in date-based theme for Lights Out
+- Finished FCC tribute page for Keith Haring
+
+**Thoughts:** 
+The tribute page was less about Haring and more just about the technique I wanted to try. Not sure how I feel about that. 
+Feels like it's been a long time since I logged, but apparently, I did 3 days ago. 
+Read that CSS supports ariables (except IE doesn't like it). Interesting. 
+
+**Link(s) to work:**
+1. [Haring Tribute Page](https://codepen.io/charlottejoy/pen/jZyYvV/?editors=1100)
+2. [Lights Out](https://codepen.io/charlottejoy/pen/wpGQOZ?editors=0111)
+
 <!--### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
