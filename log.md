@@ -484,6 +484,18 @@ Read that CSS supports ariables (except IE doesn't like it). Interesting.
 1. [Haring Tribute Page](https://codepen.io/charlottejoy/pen/jZyYvV/?editors=1100)
 2. [Lights Out](https://codepen.io/charlottejoy/pen/wpGQOZ?editors=0111)
 
+
+### Day 46-49: Feb 16-19, 2018
+
+**Today's Progress**: 
+- Did the FCC Survey project
+
+**Thoughts:** 
+I have been really bad at logging and tweeting, but I am getting in the coding. For this last project, I felt very organized. I worked on an idea and made a wireframe based on the requirements. Then, I started adding the required fields, then worked on the layouts, then colours and tweeks. I think being this structured really helped me to get it done in a few sessions.  
+
+**Link(s) to work:**
+1. [80s Theme Song Survey](https://codepen.io/charlottejoy/pen/PQOxLw)
+
 <!--### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
