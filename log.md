@@ -496,6 +496,13 @@ I have been really bad at logging and tweeting, but I am getting in the coding. 
 **Link(s) to work:**
 1. [80s Theme Song Survey](https://codepen.io/charlottejoy/pen/PQOxLw)
 
+### Day 50-57: Feb 20-27, 2018
+I've been working on the landing page project from Free Code Camp. Usng Slack's home page as a model for the layout. I finished the requrements early on, but might be taking too long trying to make this layout. I hope ths is good practice. 
+
+### Feb 28- I'm sick. Not even notepad coding today. No brainpower. 
+
+### Day 58: March 1, 2018
+
 <!--### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
