@@ -499,9 +499,17 @@ I have been really bad at logging and tweeting, but I am getting in the coding. 
 ### Day 50-57: Feb 20-27, 2018
 I've been working on the landing page project from Free Code Camp. Usng Slack's home page as a model for the layout. I finished the requrements early on, but might be taking too long trying to make this layout. I hope ths is good practice. 
 
-### Feb 28- I'm sick. Not even notepad coding today. No brainpower. 
+### Feb 28, March 1- I'm sick. Not even notepad coding today. No brainpower. 
 
-### Day 58: March 1, 2018
+### Day 58: March 2, 2018
+### Day 59: March 3, 2018
+Still working on the landing page, I think it's almost done
+
+**Thoughts:** 
+I think I'm still doing it in an organized way, but I don't know that dedicating all of this time to this particular project is the best. I'll try to be a bit more disciplined with the others. Nice looking. Nice working. But one thing at a time, maybe, like if I'm working on Javascript, maybe use Materialize for pretty. 
+
+**Link(s) to work:**
+1. [Product Landing Page](https://codepen.io/charlottejoy/pen/BYrage?editors=1100)
 
 <!--### Day 1: June 27, Monday
 
