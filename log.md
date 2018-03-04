@@ -511,6 +511,15 @@ I think I'm still doing it in an organized way, but I don't know that dedicating
 **Link(s) to work:**
 1. [Product Landing Page](https://codepen.io/charlottejoy/pen/BYrage?editors=1100)
 
+### Day 60: March 4, 2018
+I'm kinda done with the landing page, may go back to it later. I am tired. Wow, this flu or whatever is really grabbing my motivation. 
+
+**Thoughts:** 
+I'm happy to check out the next project. A little nervous that I tagged Slack to tell them I was inpired by their layout. Saw this CSS Grid game. This is cute http://cssgridgarden.com/
+
+**Link(s) to work:**
+1. [Product Landing Page](https://codepen.io/charlottejoy/pen/BYrage?editors=1100)
+
 <!--### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
