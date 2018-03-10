@@ -520,6 +520,29 @@ I'm happy to check out the next project. A little nervous that I tagged Slack to
 **Link(s) to work:**
 1. [Product Landing Page](https://codepen.io/charlottejoy/pen/BYrage?editors=1100)
 
+### D61-64, March 5-8
+Worked on Technical Documentation project. Decided to make it a collection of things I find lift my mood.  
+
+**Thoughts:** 
+Couldn't get test 12 to pass. ASked on Twitter. https://twitter.com/PeteCapeCod/status/972143099681132544
+@PeteCapeCod took a big look at it. People are nice. 
+Went to ConFoo cocktails with YULDEV. Fun to remember with strangers about Geocities.
+
+**Link(s) to work:**
+1. [Technical Doc](https://codepen.io/charlottejoy/pen/GQarMm)
+
+### D65, March 9
+Worked on portfolio project and created the issue about the technical doc test.
+
+**Thoughts:** 
+Felt unfocused during the day, but once I got started on the portfolio, was much more focused. I'm happy with what I got done. 
+Realize I don't often stick to diaries. This is not an exception. 
+
+**Link(s) to work:**
+1. [FCC Portfolio](https://codepen.io/charlottejoy/pen/pLvjGe?editors=1100)
+
+
+
 <!--### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
