@@ -541,6 +541,15 @@ Realize I don't often stick to diaries. This is not an exception.
 **Link(s) to work:**
 1. [FCC Portfolio](https://codepen.io/charlottejoy/pen/pLvjGe?editors=1100)
 
+### D66, March 10, 2018
+Worked on portfolio project. Mostly text styling and spacing. 
+
+**Thoughts:** 
+Set 15 minute timers to focus on something specific. Even if I wander a bit, keeping the itme in those chunks helps to keep me more focused. Writing about history and thiniing again about [Lissa Explians it All](http://www.lissaexplains.com/index.shtml). My middle sister showed me this in the 90s/ early 2000s. Thinking about how cool that site was to exist and 2, how I keep coming back to things, like web dev, and that when I got back after such a time how much things had changed for the better. 
+
+**Link(s) to work:**
+1. [FCC Portfolio](https://codepen.io/charlottejoy/pen/pLvjGe?editors=1100)
+
 
 
 <!--### Day 1: June 27, Monday
