@@ -550,7 +550,23 @@ Set 15 minute timers to focus on something specific. Even if I wander a bit, kee
 **Link(s) to work:**
 1. [FCC Portfolio](https://codepen.io/charlottejoy/pen/pLvjGe?editors=1100)
 
+### D67, March 11, 2018
+Worked on portfolio project. 
 
+**Thoughts:** 
+Got Scott's opinion on the look of it. Good to have a second pair of eyes on it and some feeback
+
+**Link(s) to work:**
+1. [FCC Portfolio](https://codepen.io/charlottejoy/pen/pLvjGe?editors=1100)
+
+### D68, March 12, 2018
+Worked on portfolio project. Creating collections for links and codecademy Git.
+
+**Thoughts:** 
+Good to see what I have for collections and where the gaps are. The git course was interesting, learned a few commands. Going to take the command line course next. Preparation for the deploy course. 
+
+**Link(s) to work:**
+1. [FCC Portfolio](https://codepen.io/charlottejoy/pen/pLvjGe?editors=1100)
 
 <!--### Day 1: June 27, Monday
 
