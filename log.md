@@ -568,6 +568,18 @@ Good to see what I have for collections and where the gaps are. The git course w
 **Link(s) to work:**
 1. [FCC Portfolio](https://codepen.io/charlottejoy/pen/pLvjGe?editors=1100)
 
+### D69-78, March 13-22, 2018
+So, I am not good am keeping a log yet. Which is unfortunate because I've been told the documenting my work is very important.
+During this time, I've done PHP and Command Line Codecademy classes, almost finished Udacities Responsive Web Design fundamentals, Gathered info on their nanodegrees and am going to take the free courses I can. Watched a lot of the VR one today while waiting. Finished the portfolio for FCC. Put in on charlottejoy.github.io (YAY!)- gonna keep working on that. Submitted issue to FCC on that. 
+Wrote some functions for comparing weighted pros and cons. Tonight-FCC CSS Grid
+
+**Thoughts:** 
+Documentation can be challenging, but helps to show what you've learned, remember techniques and help others. Saw a tutorial for a 5 minute loader (Slack's spinning hollow circle) and I was like, yeah, I could probably write something like that. 
+CSS Grid- WTF! This is cool, but a bit confusing. I've been using flexbox everywhere since I learned about it. CanIUse is showing me support across most latest browser versions so I'm interested. Might take the Wes Bos course or just try to replicate some layouts. THe Haring tribute page could use this nicely. Wish I'd done these tutorials before creating it. Maybe the portfolio too.
+
+**Link(s) to work:**
+1. [FCC Portfolio but with a nicer URL](https://charlottejoy.github.io/)
+
 <!--### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
