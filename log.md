@@ -580,6 +580,18 @@ CSS Grid- WTF! This is cool, but a bit confusing. I've been using flexbox everyw
 **Link(s) to work:**
 1. [FCC Portfolio but with a nicer URL](https://charlottejoy.github.io/)
 
+### D79-80, March 23-24, 2018
+CSS GRid, made a Mondrian with it.
+Set up Unity, Java SDK, Android SDK for Udacity VR course.
+
+# D81, March 25, 2018
+Hard day, but really wanted to get something in. Started the Wes Bos CSS Grid Course.
+Learned a lot in the set up:
+css var without scss 
+npm install
+emmetiot
+package control in sublime text
+
 <!--### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
